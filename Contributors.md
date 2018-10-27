@@ -9620,4 +9620,6 @@ quattad
 - [Ankur Bhatia](bhatia.ankur24@gmail.com)
 - [Danilo Mauricio](https://github.com/danmauriciobrazil)
 - [Cristian](https://github.com/cencristian)
-- [Daniel](https://github.com/daordonez11)
+- [Camilo Caquimbo](https://github.com/camilocaquimbo)
+
+
