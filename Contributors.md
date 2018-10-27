@@ -9534,6 +9534,7 @@ quattad
 - [Shailesp](https://github.com/shailesp)
 - [Sumesh KP - sumeshkp18 ](https://github.com/sumeshkp18)
 - [laurieplo](https://github.com/laurieplo)
+- [Mauricio Acevedo](https://github.com/maccevedor)
 - [JustinTheeDude](https://github.com/JustinTheeDude)
 - [Ommp](https://github.com/Ommp)
 - [Eduardo Bachiega](https://github.com/eduardobachiega)
