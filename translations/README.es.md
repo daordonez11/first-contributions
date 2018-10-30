@@ -89,13 +89,13 @@ git push origin <añade-el-nombre-de-la-rama>
 ```
 Reemplaza `<añade-el-nombre-de-la-rama>` con el nombre de la rama que creaste anteriormente.
 
-## Envía (*Submit*) tus cambios para ser revisados
+## Envía (*Submit*) [tus cambios para ser revisados]
 
 Si vas a tu repositorio en GitHub, verás un botón `Compare & pull request`. Haz click sobre este botón.
 
 <img style="float: right;" src="../assets/compare-and-pull.png" alt="crea una pull request" />
 
-Ahora envía la *pull request*.
+Ahora envía el *pull request*.
 
 <img style="float: right;" src="../assets/submit-pull-request.png" alt="enviar la pull request" />
 
@@ -103,7 +103,7 @@ Pronto estaré fusionando tus cambios (haciendo *merge*) con la rama master de e
 
 ## ¿Cuáles son los siguientes pasos?
 
-¡Enhorabuena! ¡Has completado el flujo de trabajo *_fork -> clone -> edit -> PR_* que encontrarás habitualmente como contribuidor!
+¡Excelente! ¡Has completado el flujo de trabajo *_fork -> clone -> edit -> PR_* que encontrarás habitualmente como contribuidor!
 
 Celebra tu contribución y compártela con tus amigos y seguidores yendo a [web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
